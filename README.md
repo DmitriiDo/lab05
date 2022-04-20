@@ -1,5 +1,5 @@
 ## Laboratory work V
-[![Build Status](https://travis-ci.com/DmitriiDo/lab05.svg?branch=master)](https://travis-ci.com/DmitriiDo/lab05)
+[![Coverage Status](https://coveralls.io/repos/github/DmitriiDo/lab05/badge.svg?branch=master)](https://coveralls.io/github/DmitriiDo/lab05?branch=master)
 Данная лабораторная работа посвещена изучению фреймворков для тестирования на примере **GTest**
 
 ```sh
